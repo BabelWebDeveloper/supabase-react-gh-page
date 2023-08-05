@@ -57,7 +57,7 @@ const Home = () => {
             ))}
           </div>
           <div class="alert alert-warning" role="alert">
-            Delete and update features are locked for guest users!
+            Deleting and updating is prevent for guest users!
           </div>
         </div>
       )}
