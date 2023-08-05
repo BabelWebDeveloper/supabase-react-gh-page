@@ -56,7 +56,7 @@ const Home = () => {
               />
             ))}
           </div>
-          <div class="alert alert-warning" role="alert">
+          <div className="alert alert-warning" role="alert">
             Deleting and updating is prevent for guest users!
           </div>
         </div>
